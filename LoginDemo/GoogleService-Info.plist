@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>57703078417-4ddue4tjbd21glsl6k4i67i0amr49l1q.apps.googleusercontent.com</string>
+	<string>78417-4ddue4tjbd21glsl6k4i67i0amr49l1q.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
 	<string>com.googleusercontent.apps.57703078417-4ddue4tjbd21glsl6k4i67i0amr49l1q</string>
 	<key>API_KEY</key>
@@ -19,15 +19,15 @@
 	<key>STORAGE_BUCKET</key>
 	<string>logindemo-2f12b.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_APPINVITE_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_GCM_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>GOOGLE_APP_ID</key>
 	<string>1:57703078417:ios:32e74442f4308dbdc82fb0</string>
 </dict>
